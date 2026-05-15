@@ -1,5 +1,8 @@
 # ⚡ Prompt Lifter – Chrome Extension
 
+Live on Chrome Web Store → Install PromptLift
+Turn your basic one-liner into a powerful, structured prompt — [instantly]([url](https://chromewebstore.google.com/detail/promptlift-%E2%80%93-prompt-impro/ebelhkamekbofddcdohdfjlpgaiogkfl?hl=en-US&utm_source=ext_sidebar)).
+
 ## 🚀 Overview
 
 Prompt Lifter is a Chrome extension designed to help users generate **well-structured, high-quality prompts** for AI tools.
